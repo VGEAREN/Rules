@@ -3,8 +3,8 @@
 DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,openai
-DOMAIN,google.dev
-DOMAIN,google.com
+DOMAIN,ai.google.dev
+DOMAIN,aistudio.google.com
 DOMAIN,api.githubcopilot.com
 DOMAIN,api.groq.com
 DOMAIN,api.together.xyz
