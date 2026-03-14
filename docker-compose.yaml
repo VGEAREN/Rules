@@ -4,7 +4,7 @@ services:
     image: tindy2013/subconverter:latest
     container_name: subconverter
     volumes:
-      - '/root/subconverter:/base'
+      - '/root/subconverter/ACLSSR:/base'
     ports:
       - "25500:25500"
     restart: always
