@@ -175,7 +175,6 @@ resolve_hostname = true
 add_emoji = false
 remove_old_emoji = true
 
-[[emojis.emoji]]
 #match = '(流量|时间|应急)'
 #emoji = '🏳️‍🌈'
 
