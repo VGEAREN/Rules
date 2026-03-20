@@ -1,9 +1,6 @@
 # 内容：内容：AI平台-国外
-# 数量：47条
-DOMAIN-KEYWORD,anthropic
-DOMAIN-KEYWORD,claude
+# 数量：44条
 DOMAIN-KEYWORD,openai
-DOMAIN-KEYWORD,google
 DOMAIN,ai.google.dev
 DOMAIN,clients6.google.com
 DOMAIN,aistudio.google.com
@@ -18,13 +15,9 @@ DOMAIN,generativelanguage.googleapis.com
 DOMAIN,notebooklm.google.com
 DOMAIN,sydney.bing.com
 DOMAIN-SUFFIX,ai.azure.com
-DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,auth0.com
 DOMAIN-SUFFIX,bard.google.com
 DOMAIN-SUFFIX,chatgpt.com
-DOMAIN-SUFFIX,claude.ai
-DOMAIN-SUFFIX,claude.com
-DOMAIN-SUFFIX,claudeusercontent.com
 DOMAIN-SUFFIX,client-api.arkoselabs.com
 DOMAIN-SUFFIX,copilot.cloud.microsoft
 DOMAIN-SUFFIX,copilot.microsoft.com
