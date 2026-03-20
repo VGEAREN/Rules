@@ -113,6 +113,15 @@
 * Google Hosts 请移步 https://github.com/googlehosts/hosts
 
 
+# 环境变量配置
+
+使用 subconverter 部署时，需要配置以下环境变量：
+
+| 变量名 | 说明 | 示例 |
+| --- | --- | --- |
+| `API_ACCESS_TOKEN` | subconverter Web 接口的访问令牌 | `my_secure_token_123` |
+| `MANAGED_CONFIG_PREFIX` | 托管配置的地址前缀（不含末尾 `/`） | `http://127.0.0.1:25500` |
+
 # 注：
 
 * 浏览器内部广告太多了，单凭几百条规则可能过滤不过来。少许遗漏，请谅解
