@@ -16,6 +16,7 @@ DOMAIN-SUFFIX,longbridgeapp.com
 DOMAIN-SUFFIX,longbridgehk.com
 DOMAIN-SUFFIX,longportapp.cn
 DOMAIN-SUFFIX,longportapp.com
+DOMAIN-KEYWORD,longbridge
 # 长桥 OpenAPI 国内入口（无整域后缀，保留精确域名）
 DOMAIN,openapi.longbridge.cn
 DOMAIN,openapi-quote.longbridge.cn
