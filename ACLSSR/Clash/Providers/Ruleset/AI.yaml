@@ -1,6 +1,6 @@
 payload:
   # 内容：内容：AI平台-国外
-  # 数量：44条
+  # 数量：46条
   - DOMAIN-KEYWORD,openai
   - DOMAIN,ai.google.dev
   - DOMAIN,clients6.google.com
@@ -9,6 +9,8 @@ payload:
   - DOMAIN,api.groq.com
   - DOMAIN,api.together.xyz
   - DOMAIN,bard.google.com
+  - DOMAIN,cn-check.vgearen.com
+  - DOMAIN,cn-check.vgearen36.workers.dev
   - DOMAIN,console.groq.com
   - DOMAIN,copilot-proxy.githubusercontent.com
   - DOMAIN,gemini.google.com
