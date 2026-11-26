@@ -1,5 +1,5 @@
 # 内容：CustomTW
-# 数量：7条
+# 数量：9条
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bytick.com
 # Bybit App 备用域名（与 bybit.biz 同命名 / 同证书主体 WECHAIN FINTECH）
@@ -7,4 +7,7 @@ DOMAIN-SUFFIX,ng-dex.com
 DOMAIN-SUFFIX,wsot2022.com
 DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
+# GeeTest 验证码：Bybit 注册时使用，核验结果会带上用户 IP，需与 Bybit API 同出口
+DOMAIN-SUFFIX,geetest.com
+DOMAIN-SUFFIX,geevisit.com
 DOMAIN-KEYWORD,bybit
