@@ -117,7 +117,8 @@ match = '^Smart Access expire: (\d+)/(\d+)/(\d+)$'
 replace = '$1:$2:$3:0:0:0'
 
 [node_pref]
-#udp_flag = false
+# 节点默认开启 UDP：不开时 mihomo 会把本该走代理的 UDP（QUIC 等）退回直连，暴露家宽 IP
+udp_flag = true
 #tcp_fast_open_flag = false
 #skip_cert_verify_flag = false
 #tls13_flag = false

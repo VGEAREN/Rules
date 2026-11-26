@@ -1,5 +1,5 @@
 # 内容：CustomTW
-# 数量：9条
+# 数量：11条
 DOMAIN-SUFFIX,bycsi.com
 DOMAIN-SUFFIX,bytick.com
 # Bybit App 备用域名（与 bybit.biz 同命名 / 同证书主体 WECHAIN FINTECH）
@@ -11,3 +11,6 @@ DOMAIN-SUFFIX,ffe390afd658c19dcbf707e0597b846d.de
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,geevisit.com
 DOMAIN-KEYWORD,bybit
+# Bybit App 启动时发出的 UDP（腾讯云 51051/51052 端口），节点开启 UDP 后才能走台湾
+IP-CIDR,43.154.61.67/32,no-resolve
+IP-CIDR,43.160.158.108/32,no-resolve
